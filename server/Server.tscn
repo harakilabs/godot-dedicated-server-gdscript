@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://coop3dpjudf5c"]
+
+[ext_resource type="Script" path="res://Server.gd" id="1_awivj"]
+
+[node name="Server" type="Node"]
+script = ExtResource("1_awivj")
